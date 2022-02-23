@@ -1,0 +1,49 @@
+.container {
+    background-image: cover;
+    background-image: url("https://previews.123rf.com/images/kroomjai/kroomjai1110/kroomjai111000104/10948426-a-vintage-book-cover-background-with-a-dark-screen-pattern.jpg");
+    height:850px;
+    text-align: center;
+    padding: 10px;
+  }
+  header {
+    background-color: gray;
+    border: 5px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  nav {
+    border: 5px solid black;
+    margin: 10px;
+    padding: 5px;
+  }
+  .wrapper {
+    height: 500px;
+    border: 5px solid black;
+    background-image: url("https://17kwo31takqarktfu433l181-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Ford-Explorer-Dealer-Snow.jpg");
+    background-image: cover;
+    padding: 0 0 15px;
+    margin-top: 15px;
+  }
+  main, aside {
+    border: 5px solid black;
+    display: inline-block;
+    height: 250px;
+    width: 200px;
+    vertical-align: top;
+  }
+  article {
+    border: 5px solid black;
+    margin: 10px;
+  }
+  footer {
+    border: 5px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: gray;
+    }
+  body {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
